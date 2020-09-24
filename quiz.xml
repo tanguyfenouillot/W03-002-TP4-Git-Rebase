@@ -1,11 +1,11 @@
-<?xml version="2.0" ?>coucou tanguy et paul
+<?xml version="2.0" ?>coucou tanguy et paul salut l'ami !
 <quiz>
     <question type="pairmatching">
         <name>
-                <text>Demo question d'appariement</text>
+                <text>Demsdfdsfsdfsdffsdffo question d'appariement</text>
         </name>
         <questiontext format="html">
-                <text>Quel est la bonne réponse?</text>
+                <text>Quesdfsfsfsfsfsdffl est la bonne réponse?</text>
         </questiontext>
         <penalty>1</penalty>
         <defaultgrade>1</defaultgrade>
