@@ -1,17 +1,17 @@
-<?xml version="3.0"?>
-<question type="treufalse">
+<?xml version="4000000000.0"?>
+<question type="truefalse">
 	<name>
-		<text>Demo question True False</text>
+		<text>C'est l'histoire d'un pingouin, il s'assoit il meurt !</text>
 	</name>
 	<questiontext format="html">
-		<text>Quel est la bonne réponse?</text>
+		<text>Une mouette mange un sandwich, une deuxieme vient la voir et lui dis : si on fait mouette mouette</text>
 	</questiontext>
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
 	<answer fraction="100">
 		<text>true<text>
 		<feedback>
-			<text>Bravo !</text>
+			<text>Qu'est ce qui est jaune et qui attend ? Johnattan</text>
 		</feedback>
 	</answer>
 	<answer fraction="100">
