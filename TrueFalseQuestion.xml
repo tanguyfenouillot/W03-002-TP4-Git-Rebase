@@ -1,7 +1,7 @@
-<?xml version="3.0"?>
-<question type="treufalse">
+<?xml version="4000000000.0"?>
+<question type="truefalse">
 	<name>
-		<text>Demo question True False</text>
+		<text>C'est l'histoire d'un pingouin, il s'assoit il meurt !</text>
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse?</text>
