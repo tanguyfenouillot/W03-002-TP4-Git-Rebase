@@ -1,0 +1,30 @@
+<?xml version="3.0"?>
+<question type="treufalse">
+	<name>
+		<text>Demo question True False</text>
+	</name>
+	<questiontext format="html">
+		<text>Quel est la bonne réponse?</text>
+	</questiontext>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+	<answer fraction="100">
+		<text>true<text>
+		<feedback>
+			<text>Bravo !</text>
+		</feedback>
+	</answer>
+	<answer fraction="100">
+		<text>false</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>
+	</answer>
+	<answer fraction="100">
+		<text>false</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>
+	</answer>
+	<shuffleanswers>1</shuffleanswers>
+</question>
